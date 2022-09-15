@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-15T14:53:53 IST" name="Default suite" finished-at="2022-09-15T14:53:54 IST" duration-ms="991">
+  <suite started-at="2022-09-15T17:32:12 IST" name="Default suite" finished-at="2022-09-15T17:32:13 IST" duration-ms="1374">
     <groups>
     </groups>
-    <test started-at="2022-09-15T14:53:53 IST" name="Default test" finished-at="2022-09-15T14:53:54 IST" duration-ms="991">
+    <test started-at="2022-09-15T17:32:12 IST" name="Default test" finished-at="2022-09-15T17:32:13 IST" duration-ms="1374">
       <class name="RoyalChallengersBangalore.RCB.ForeignPlayers">
-        <test-method signature="getForeignPlayers()[pri:0, instance:RoyalChallengersBangalore.RCB.ForeignPlayers@4659191b]" started-at="2022-09-15T14:53:53 IST" name="getForeignPlayers" finished-at="2022-09-15T14:53:54 IST" duration-ms="957" status="PASS">
+        <test-method signature="getForeignPlayers()[pri:0, instance:RoyalChallengersBangalore.RCB.ForeignPlayers@55634720]" started-at="2022-09-15T17:32:12 IST" name="getForeignPlayers" finished-at="2022-09-15T17:32:13 IST" duration-ms="1193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getForeignPlayers -->
+        <test-method signature="getWicketKeeper()[pri:0, instance:RoyalChallengersBangalore.RCB.ForeignPlayers@55634720]" started-at="2022-09-15T17:32:13 IST" name="getWicketKeeper" finished-at="2022-09-15T17:32:13 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWicketKeeper -->
       </class> <!-- RoyalChallengersBangalore.RCB.ForeignPlayers -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
