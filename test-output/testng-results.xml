@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-15T17:32:12 IST" name="Default suite" finished-at="2022-09-15T17:32:13 IST" duration-ms="1374">
+  <suite started-at="2022-09-15T19:55:50 IST" name="Default suite" finished-at="2022-09-15T19:55:52 IST" duration-ms="2185">
     <groups>
     </groups>
-    <test started-at="2022-09-15T17:32:12 IST" name="Default test" finished-at="2022-09-15T17:32:13 IST" duration-ms="1374">
-      <class name="RoyalChallengersBangalore.RCB.ForeignPlayers">
-        <test-method signature="getForeignPlayers()[pri:0, instance:RoyalChallengersBangalore.RCB.ForeignPlayers@55634720]" started-at="2022-09-15T17:32:12 IST" name="getForeignPlayers" finished-at="2022-09-15T17:32:13 IST" duration-ms="1193" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getForeignPlayers -->
-        <test-method signature="getWicketKeeper()[pri:0, instance:RoyalChallengersBangalore.RCB.ForeignPlayers@55634720]" started-at="2022-09-15T17:32:13 IST" name="getWicketKeeper" finished-at="2022-09-15T17:32:13 IST" duration-ms="145" status="PASS">
+    <test started-at="2022-09-15T19:55:50 IST" name="Default test" finished-at="2022-09-15T19:55:52 IST" duration-ms="2185">
+      <class name="rcb.RcbPlayersTest">
+        <test-method signature="getWicketKeeper()[pri:0, instance:rcb.RcbPlayersTest@273e7444]" started-at="2022-09-15T19:55:50 IST" name="getWicketKeeper" finished-at="2022-09-15T19:55:52 IST" duration-ms="1891" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getWicketKeeper -->
-      </class> <!-- RoyalChallengersBangalore.RCB.ForeignPlayers -->
+        <test-method signature="verifyForeignPlayerCountIsFour()[pri:0, instance:rcb.RcbPlayersTest@273e7444]" started-at="2022-09-15T19:55:52 IST" name="verifyForeignPlayerCountIsFour" finished-at="2022-09-15T19:55:52 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForeignPlayerCountIsFour -->
+      </class> <!-- rcb.RcbPlayersTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
