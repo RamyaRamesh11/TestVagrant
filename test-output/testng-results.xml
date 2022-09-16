@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-15T19:55:50 IST" name="Default suite" finished-at="2022-09-15T19:55:52 IST" duration-ms="2185">
+  <suite started-at="2022-09-16T11:54:36 IST" name="Default suite" finished-at="2022-09-16T11:54:37 IST" duration-ms="1067">
     <groups>
     </groups>
-    <test started-at="2022-09-15T19:55:50 IST" name="Default test" finished-at="2022-09-15T19:55:52 IST" duration-ms="2185">
+    <test started-at="2022-09-16T11:54:36 IST" name="Default test" finished-at="2022-09-16T11:54:37 IST" duration-ms="1067">
       <class name="rcb.RcbPlayersTest">
-        <test-method signature="getWicketKeeper()[pri:0, instance:rcb.RcbPlayersTest@273e7444]" started-at="2022-09-15T19:55:50 IST" name="getWicketKeeper" finished-at="2022-09-15T19:55:52 IST" duration-ms="1891" status="PASS">
+        <test-method signature="getWicketKeeper()[pri:0, instance:rcb.RcbPlayersTest@1c7696c6]" started-at="2022-09-16T11:54:36 IST" name="getWicketKeeper" finished-at="2022-09-16T11:54:37 IST" duration-ms="924" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getWicketKeeper -->
-        <test-method signature="verifyForeignPlayerCountIsFour()[pri:0, instance:rcb.RcbPlayersTest@273e7444]" started-at="2022-09-15T19:55:52 IST" name="verifyForeignPlayerCountIsFour" finished-at="2022-09-15T19:55:52 IST" duration-ms="231" status="PASS">
+        <test-method signature="verifyForeignPlayerCountIsFour()[pri:0, instance:rcb.RcbPlayersTest@1c7696c6]" started-at="2022-09-16T11:54:37 IST" name="verifyForeignPlayerCountIsFour" finished-at="2022-09-16T11:54:37 IST" duration-ms="108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyForeignPlayerCountIsFour -->
